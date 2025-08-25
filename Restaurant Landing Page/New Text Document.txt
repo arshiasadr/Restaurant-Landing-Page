@@ -1,0 +1,18 @@
+Project Name: Restaurant Landing Page
+
+Description:
+This is my first HTML & CSS project: a single-page responsive restaurant landing page.
+It features a visually appealing design with images of food, a clear navigation menu, and a call-to-action button for reservations.
+The layout is fully responsive and designed to provide a user-friendly experience on both desktop and mobile devices.
+
+Technologies Used:
+
+HTML5
+
+CSS3
+
+Preview / Demo:
+[Insert your GitHub Pages or Netlify link here]
+
+Source Code:
+[Insert GitHub repository link here]
